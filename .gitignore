@@ -1,0 +1,8 @@
+# Optional .vscode settings directory
+.vscode
+
+# Dependency directories
+node_modules/
+
+# cypress files
+cypress/cucumber-json
